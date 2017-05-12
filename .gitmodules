@@ -1,0 +1,6 @@
+[submodule "uvm-core"]
+	path = uvm-core
+	url = git@github.com:OSCI-WG/uvm-core
+[submodule "uvm-tests"]
+	path = uvm-tests
+	url = git@github.com:OSCI-WG/uvm-tests
